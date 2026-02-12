@@ -1,0 +1,39 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M01494,CNC Spoilerboard Kit,1.00,,,True
+1,M00226,EVO/PRO-S - Spoilerboard Kit [M0 Use],1.00,M01494,CNC Spoilerboard Kit,True
+2,M00227,EVO/PRO-S - Spoilerboard MDF Plate 18mm (Lot),1.00,M00226,EVO/PRO-S - Spoilerboard Kit [M0 Use],True
+3,M00811,Spoilerboard MDF Plate 800x200x18mm,4.00,M00227,EVO/PRO-S - Spoilerboard MDF Plate 18mm (Lot),False
+2,M00817,SPB-Evo/Pro-S - DIN912 Black Screw Bag - M6x16,1.00,M00226,EVO/PRO-S - Spoilerboard Kit [M0 Use],True
+3,M01704,DIN912 M6x16 Black screw,22.00,M00817,SPB-Evo/Pro-S - DIN912 Black Screw Bag - M6x16,False
+2,M00816,SPB-Evo/Pro-S -  I-Type Sliding Nut Bag - M6,1.00,M00226,EVO/PRO-S - Spoilerboard Kit [M0 Use],True
+3,M00556,I-Type Sliding Nut M6,22.00,M00816,SPB-Evo/Pro-S -  I-Type Sliding Nut Bag - M6,False
+2,M00818,SPB-Evo/Pro-S - Threaded Insert Bag - M8x13,1.00,M00226,EVO/PRO-S - Spoilerboard Kit [M0 Use],True
+3,M00840,Threaded Insert M6x13,47.00,M00818,SPB-Evo/Pro-S - Threaded Insert Bag - M8x13,False
+2,M00513,"Face milling end mill 25mm, shank 8mm",1.00,M00226,EVO/PRO-S - Spoilerboard Kit [M0 Use],False
+1,M00223,EVO/PRO-M - Spoilerboard Kit [M0 Use],1.00,M01494,CNC Spoilerboard Kit,True
+2,M00224,EVO/PRO-M - Spoilerboard MDF Plate 18mm (Lot),1.00,M00223,EVO/PRO-M - Spoilerboard Kit [M0 Use],True
+3,M00811,Spoilerboard MDF Plate 800x200x18mm,6.00,M00224,EVO/PRO-M - Spoilerboard MDF Plate 18mm (Lot),False
+2,M00815,SPB-Evo/Pro-M/L - DIN912 Black Screw Bag - M6x16,1.00,M00223,EVO/PRO-M - Spoilerboard Kit [M0 Use],True
+3,M01704,DIN912 M6x16 Black screw,34.00,M00815,SPB-Evo/Pro-M/L - DIN912 Black Screw Bag - M6x16,False
+2,M00814,SPB-Evo/Pro-M/L -  I-Type Sliding Nut Bag - M6,1.00,M00223,EVO/PRO-M - Spoilerboard Kit [M0 Use],True
+3,M00556,I-Type Sliding Nut M6,34.00,M00814,SPB-Evo/Pro-M/L -  I-Type Sliding Nut Bag - M6,False
+2,M00813,SPB-Evo/Pro-M - Threaded Insert Bag - M8x13,1.00,M00223,EVO/PRO-M - Spoilerboard Kit [M0 Use],True
+3,M00840,Threaded Insert M6x13,77.00,M00813,SPB-Evo/Pro-M - Threaded Insert Bag - M8x13,False
+2,M00513,"Face milling end mill 25mm, shank 8mm",1.00,M00223,EVO/PRO-M - Spoilerboard Kit [M0 Use],False
+1,M00220,EVO/PRO-L - Spoilerboard Kit [M0 Use],1.00,M01494,CNC Spoilerboard Kit,True
+2,M00221,EVO/PRO-L - Spoilerboard MDF Plate 18mm (Lot),1.00,M00220,EVO/PRO-L - Spoilerboard Kit [M0 Use],True
+3,M00810,Spoilerboard MDF Plate 1200x200x18mm,6.00,M00221,EVO/PRO-L - Spoilerboard MDF Plate 18mm (Lot),False
+2,M00815,SPB-Evo/Pro-M/L - DIN912 Black Screw Bag - M6x16,1.00,M00220,EVO/PRO-L - Spoilerboard Kit [M0 Use],True
+2,M00814,SPB-Evo/Pro-M/L -  I-Type Sliding Nut Bag - M6,1.00,M00220,EVO/PRO-L - Spoilerboard Kit [M0 Use],True
+2,M00812,SPB-Evo/Pro-L - Threaded Insert Bag - M8x13,1.00,M00220,EVO/PRO-L - Spoilerboard Kit [M0 Use],True
+3,M00840,Threaded Insert M6x13,121.00,M00812,SPB-Evo/Pro-L - Threaded Insert Bag - M8x13,False
+2,M00513,"Face milling end mill 25mm, shank 8mm",1.00,M00220,EVO/PRO-L - Spoilerboard Kit [M0 Use],False
+1,M00276,FAB - Spoilerboard Kit,1.00,M01494,CNC Spoilerboard Kit,True
+2,M00952,SPB-Fab - DIN912 Black Screw Bag - M6x16,1.00,M00276,FAB - Spoilerboard Kit,True
+3,M01704,DIN912 M6x16 Black screw,60.00,M00952,SPB-Fab - DIN912 Black Screw Bag - M6x16,False
+2,M00953,SPB-Fab - I-Type Sliding Nut Bag - M6,1.00,M00276,FAB - Spoilerboard Kit,True
+3,M00556,I-Type Sliding Nut M6,60.00,M00953,SPB-Fab - I-Type Sliding Nut Bag - M6,False
+2,M00954,SPB-Fab - DIN9021 Washer Bag - M6x18,1.00,M00276,FAB - Spoilerboard Kit,True
+3,M01694,DIN9021 Washer M6x18,60.00,M00954,SPB-Fab - DIN9021 Washer Bag - M6x18,False
+2,M00513,"Face milling end mill 25mm, shank 8mm",1.00,M00276,FAB - Spoilerboard Kit,False
+2,M00277,FAB - Spoilerboard MDF Plate 1470x735x18mm,4.00,M00276,FAB - Spoilerboard Kit,False
